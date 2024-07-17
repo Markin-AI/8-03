@@ -28,7 +28,12 @@
 
 ### Решение 2
 
+[Файл .gitlab-ci.yml](https://github.com/Markin-AI/8-03/blob/main/.gitlab-ci.yml)
 
+![Скриншот 1](https://github.com/Markin-AI/8-03/blob/main/img/2-1.png)
 
+![Скриншот 2](https://github.com/Markin-AI/8-03/blob/main/img/2-2.png)
+
+![Скриншот 3](https://github.com/Markin-AI/8-03/blob/main/img/2-3.png)
 
 ---
