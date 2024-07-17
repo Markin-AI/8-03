@@ -10,8 +10,9 @@
 
 ### Решение 1
 
+![Скриншот 1](https://github.com/Markin-AI/8-03/blob/main/img/1-1.png)
 
-
+![Скриншот 2](https://github.com/Markin-AI/8-03/blob/main/img/1-2.png)
 
 ---
 
